@@ -1,4 +1,3 @@
-require 'pry'
 require_relative 'citizen'
 require_relative 'income'
 require_relative 'tax_man'
