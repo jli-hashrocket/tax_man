@@ -1,7 +1,6 @@
 class TaxMan
   attr_reader :citizens_w_income
-  def initialize(citizens, citizens_w_income = []
-)
+  def initialize(citizens, citizens_w_income = [])
     @citizens = citizens
     @citizens_w_income = citizens_w_income
   end
